@@ -16,6 +16,7 @@ BuildRequires:  pkgconfig(Qt5Core)
 BuildRequires:  pkgconfig(Qt5DBus)
 BuildRequires:  pkgconfig(Qt5Gui)
 BuildRequires:  pkgconfig(Qt5Quick)
+BuildRequires:  cmake(Qt5Widgets)
 
 Requires:       qt5qmlimport(FishUI.1) >= 0
 Requires:       qt5qmlimport(QtGraphicalEffects.1) >= 0
