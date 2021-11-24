@@ -9,6 +9,7 @@ Group:          Productivity/Graphics/Other
 URL:            https://github.com/cutefishos/screenshot
 Source:         https://github.com/cutefishos/screenshot/archive/refs/tags/%{version}/%{oname}-%{version}.tar.gz
 
+BuildRequires:  qmake5
 BuildRequires:  cmake
 BuildRequires:  cmake(Qt5LinguistTools)
 BuildRequires:  pkgconfig(Qt5Core)
