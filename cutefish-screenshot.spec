@@ -1,8 +1,8 @@
 %define oname screenshot
 
 Name:           cutefish-screenshot
-Version:        0.5
-Release:        2
+Version:        0.8
+Release:        1
 Summary:        Screenshot tool
 License:        GPL-3.0-or-later
 Group:          Productivity/Graphics/Other
